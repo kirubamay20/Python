@@ -1,1 +1,3 @@
-# Run the main.ipynb file.
+# Hackathon Usecase
+Run main.ipynb
+-basic model.
